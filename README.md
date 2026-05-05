@@ -16,5 +16,8 @@ For workshop, I have bought 8 x (KS4036 + SSD1306 + ESP32 Sense Camera)
   - Control by the ESP32 Wifi from the Quest
   - Learn to recover the image of the ESP32 in Quest.
   - Learn IoT
-    
+
+Mecanum version:  
+https://github.com/EloiStree/2026_04_13_gdp_toy_mecanum_robot_code   
+
 
