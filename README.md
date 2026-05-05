@@ -1,7 +1,8 @@
 # Hello Two Wheels Car KS4036
 
 [<img width="990" height="688" alt="image" src="https://github.com/user-attachments/assets/866d46d3-1331-4e45-8cf3-91aaabdc52b8" />](https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues/220)  
-https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues/220   
+Small Doc: https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues/220   
+Download Code: https://docs.keyestudio.com/projects/KS4036/en/latest/docs/3.MakecodeTutorial.html#download-code-file
 
 For workshop, I have bought 8 x (KS4036 + SSD1306 + ESP32 Sense Camera)
 
