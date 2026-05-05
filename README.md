@@ -21,3 +21,5 @@ Mecanum version:
 https://github.com/EloiStree/2026_04_13_gdp_toy_mecanum_robot_code   
 
 
+Workshop Draft:   
+https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/17  
